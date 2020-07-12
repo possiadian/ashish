@@ -1,8 +1,6 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  annotations:
-    configmanagement.gke.io/managed: enabled    
   name: hello-world-deployment
   labels:
     app: hello-world
