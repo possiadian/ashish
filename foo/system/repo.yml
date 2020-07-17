@@ -1,4 +1,3 @@
-  
 apiVersion: configmanagement.gke.io/v1
 kind: Repo
 metadata:
